@@ -20,4 +20,4 @@ int main()
      cout<<a[i]<<" ";
      return 0;
 }
-
+i love my country
